@@ -1,0 +1,9 @@
+to create files in linux 
+*cat > file 1
+
+to push the file into the remote repository
+* git push -u origin
+to clone the repository
+*[A[A[F
+[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[B[C git clone 'repository URL'
