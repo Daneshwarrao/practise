@@ -1,0 +1,1 @@
+Centralized version control systems — such as CVS, Perforce, and SVN — require users to pull the latest version from the server to download a local copy on their machine. Contributors then push commits to the server and resolve any merge conflicts on the main repository.

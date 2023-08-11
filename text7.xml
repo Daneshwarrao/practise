@@ -1,0 +1,1 @@
+As a client-server model, a centralized workflow enables file locking so that any piece of the code that's currently checked out will not be accessible to others, ensuring that only one developer can contribute to the code at a time.
